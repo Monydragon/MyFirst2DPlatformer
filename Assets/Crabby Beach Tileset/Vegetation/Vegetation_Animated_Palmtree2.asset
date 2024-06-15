@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Vegetation_Animated_Palmtree2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1591426737, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: 2001505208, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: -505119383, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: 903925038, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: -547281242, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: 799789354, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: 1566314577, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: 2062983929, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: -274708763, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: 1340797129, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: -1240610901, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  - {fileID: -1059409332, guid: d660622a6e65c624a8bdbfea84f9e5fb, type: 3}
+  m_MinSpeed: 6
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
