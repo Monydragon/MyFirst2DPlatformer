@@ -612,22 +612,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 170231764459366836, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 1044017826, guid: 703f27fd060bd6945ad1e5aa22622daf, type: 3}
-    - target: {fileID: 170231764459366836, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 170231764459366836, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 170231764459366836, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 385721362888393279, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y
       value: 0.875
@@ -642,7 +626,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1786603877452773089, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
       propertyPath: <JumpForce>k__BackingField
-      value: 150
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 1786603877452773089, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
+      propertyPath: <GroundCheckRadius>k__BackingField
+      value: 0.52
       objectReference: {fileID: 0}
     - target: {fileID: 3228528201537157608, guid: 9f4df1f8c0b7984478afec80aa9c4df3, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.y

@@ -51,6 +51,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Speed>k__BackingField: 3
   <JumpForce>k__BackingField: 6
+  <MaxJumps>k__BackingField: 2
+  <GroundCheckRadius>k__BackingField: 0.6
+  <GroundLayer>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 64
+  <isGrounded>k__BackingField: 0
 --- !u!212 &170231764459366836
 SpriteRenderer:
   m_ObjectHideFlags: 0
